@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khmdvjamshid
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Ethical hacking.
+- 👋 Hi, I’m Jamshid
+- 👀 I’m interested in Hacking and Python
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khmdvjamshid@gmail.com
 
