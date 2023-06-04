@@ -4,6 +4,15 @@
 
 Welcome to my GitHub profile! As a self-taught web developer, I have honed my skills in HTML, CSS (including Bootstrap), and Python (with a focus on the Django framework). I have also gained experience in working with Git and GitHub for version control, as well as NoSQL databases for data storage and retrieval. With a passion for learning and a strong attention to detail, I am committed to staying up-to-date with the latest web development trends and creating elegant and functional web applications that meet the needs of users.
 
+## Coding Skills
+
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
+
 ## Skills
 1. Troubleshooting
 2. Problem Solver
